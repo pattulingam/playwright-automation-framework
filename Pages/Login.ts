@@ -24,4 +24,4 @@ export class Login {
     async goto() {
         await this.page.goto(Urls.LOGIN);
     }
-}
+}   
